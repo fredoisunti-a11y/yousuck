@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "yousuck",
+    "name": "You Suck Get Better",
+    "description": "Roasts you every time you die.",
+    "version": "1.8.9-1.0.0",
+    "mcversion": "1.8.9",
+    "url": "https://github.com/fredoisunti-a11y/yousuck",
+    "updateUrl": "",
+    "authorList": ["glowwie"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
