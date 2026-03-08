@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "yousuck",
+  "version": "1.0.0",
+  "name": "You Suck Get Better",
+  "description": "Roasts you every time you die.",
+  "authors": ["glowwie"],
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.glowwie.yousuck.YouSuckMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric-api": "*",
+    "minecraft": "~1.20.4"
+  }
+}
